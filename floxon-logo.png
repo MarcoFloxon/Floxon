@@ -1,0 +1,3 @@
+git add floxon-logo.png index.html audit.html guide.html
+git commit -m "Add real logo and update img src"
+git push
